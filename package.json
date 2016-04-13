@@ -23,7 +23,6 @@
         "./images/toxic/left.png",
 	"./images/toxic/right.png"
 	]
-	"license": "MIT",
 	"homepage": "http://my-gallery.name/",
 	"demo": "http://my-gallery.name/",
 	"repository": {
