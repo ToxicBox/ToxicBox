@@ -1,0 +1,44 @@
+{
+	"name": "ToxicBox",
+	"description": "jQuery lightbox",
+	"dependencies": {
+		"jquery": ">=1.7.0"
+	},
+	"keywords": [
+		"lightbox",
+		"gallery",
+		"jquery",
+		"Image Pop-Up",
+		"Img Pop-Up",
+		"div Pop-Up",
+		"Pop-Up",
+		"popup",
+		"modal",
+		"jquery-plugin"
+	],
+	"authors": [
+		{
+			"name": "Berestov Andrey",
+			"url": "http://my-gallery.name/",
+			"email": "toxicbox@my-gallery.name"
+		}
+	],
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "http://www.opensource.org/licenses/mit-license.php"
+		}
+	],
+	"homepage": "http://my-gallery.name/",
+	"main": [
+	"./js/jquery.toxicbox-1.0.3.js",
+	"./css/toxic.css",
+    "./images/toxic/loader.gif",
+    "./images/toxic/close.png",
+    "./images/toxic/left.png",
+	"./images/toxic/right.png"
+	]
+	"ignore": [
+		"package.json"
+	]
+}
