@@ -19,6 +19,9 @@
 	"./js/jquery.toxicbox-1.0.3.js",
 	"./css/toxic.css"
 	],
+	"ignore":[
+	"bower.json"
+		]
 	"homepage": "http://my-gallery.name/",
 	"license": "MIT",
 	"demo": "http://my-gallery.name/",
