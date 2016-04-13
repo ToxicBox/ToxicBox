@@ -33,9 +33,9 @@
 	"main": [
 	"./js/jquery.toxicbox-1.0.3.js",
 	"./css/toxic.css",
-    "./images/toxic/loader.gif",
-    "./images/toxic/close.png",
-    "./images/toxic/left.png",
+        "./images/toxic/loader.gif",
+        "./images/toxic/close.png",
+        "./images/toxic/left.png",
 	"./images/toxic/right.png"
 	]
 	"ignore": [
