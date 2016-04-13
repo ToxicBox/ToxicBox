@@ -21,7 +21,7 @@
 	],
 	"ignore":[
 	"bower.json"
-		]
+		],
 	"homepage": "http://my-gallery.name/",
 	"license": "MIT",
 	"demo": "http://my-gallery.name/",
