@@ -1,5 +1,5 @@
 {
-	"name": "ToxicBox",
+	"name": "toxicbox",
 	"description": "jQuery lightbox",
 	"dependencies": {
 		"jquery": ">=1.7.0"
@@ -32,11 +32,7 @@
 	"homepage": "http://my-gallery.name/",
 	"main": [
 	"./js/jquery.toxicbox-1.0.3.js",
-	"./css/toxic.css",
-        "./images/toxic/loader.gif",
-        "./images/toxic/close.png",
-        "./images/toxic/left.png",
-	"./images/toxic/right.png"
+	"./css/toxic.css"
 	],
 	"ignore": [
 		"package.json"
