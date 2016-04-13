@@ -21,7 +21,8 @@
 	],
 	"ignore":[
 	"bower.json",
-	"package.json"
+	"package.json",
+	"./js/jquery-1.11.1.min.js"
 		],
 	"homepage": "http://my-gallery.name/",
 	"license": "MIT",
