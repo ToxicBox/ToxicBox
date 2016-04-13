@@ -37,7 +37,7 @@
         "./images/toxic/close.png",
         "./images/toxic/left.png",
 	"./images/toxic/right.png"
-	]
+	],
 	"ignore": [
 		"package.json"
 	]
