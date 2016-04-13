@@ -22,8 +22,9 @@
         "./images/toxic/close.png",
         "./images/toxic/left.png",
 	"./images/toxic/right.png"
-	]
+	],
 	"homepage": "http://my-gallery.name/",
+	"license": "MIT",
 	"demo": "http://my-gallery.name/",
 	"repository": {
 		"type": "git",
