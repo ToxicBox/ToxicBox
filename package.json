@@ -20,8 +20,8 @@
 	"./css/toxic.css"
 	],
 	"ignore":[
-	"./bower.json",
-	"./package.json"
+	"bower.json",
+	"package.json"
 		],
 	"homepage": "http://my-gallery.name/",
 	"license": "MIT",
