@@ -31,12 +31,12 @@
 	],
 	"homepage": "http://my-gallery.name/",
 	"main": [
-	"./js/jquery.toxicbox-1.0.3.js",
-	"./css/toxic.css"
+	"js/jquery.toxicbox-1.0.3.js",
+	"css/toxic.css"
 	],
 	"ignore": [
 		"package.json",
 		"bower.json",
-		"./js/jquery-1.11.1.min.js"
+		"js/jquery-1.11.1.min.js"
 	]
 }
