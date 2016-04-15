@@ -47,7 +47,9 @@ It is similar to other “lightbox jquery” plug-ins, but it is written from sc
 </tr>
 </table>
 
-<strong>How to use:</strong> http://my-gallery.name/en/
+<h2>How to use:</h2>
+
+http://my-gallery.name/en/
 
 <h2>Versions of ToxicBox plug-in</h2>
 
