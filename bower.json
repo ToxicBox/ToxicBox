@@ -19,7 +19,7 @@
 	"authors": [
 		{
 			"name": "Berestov Andrey",
-			"url": "http://my-gallery.name/",
+			"url": "http://my-gallery.name/en/",
 			"email": "toxicbox@my-gallery.name"
 		}
 	],
@@ -29,7 +29,7 @@
 			"url": "http://www.opensource.org/licenses/mit-license.php"
 		}
 	],
-	"homepage": "http://my-gallery.name/",
+	"homepage": "http://my-gallery.name/en/",
 	"main": [
 	"js/jquery.toxicbox-1.0.3.js",
 	"css/toxic.css"
