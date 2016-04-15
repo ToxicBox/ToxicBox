@@ -26,7 +26,7 @@ It is similar to other “lightbox jquery” plug-ins, but it is written from sc
 </ul>
 
 <h2>Compatibility</h2>
-<table id="cross" style="width:100%;">
+<table id="cross">
 <tr>
 <th colspan="7">Browser HOME</th>
 </tr>
@@ -40,10 +40,10 @@ It is similar to other “lightbox jquery” plug-ins, but it is written from sc
 <th colspan="7">Browser Mobile</th>
 </tr>
 <tr>
-<th>Android</th><th>iOS</th><th>Opera Mobile</th><th>Windows</th><th>Firefox</th><th>Chrome</th><th>UC Browser</th>
+<th>Stock Android</th><th>iOS</th><th>Opera Mobile</th><th>Windows</th><th>Firefox</th><th>Chrome</th><th>UC Browser</th>
 </tr>
 <tr>
-<td style="line-height:1em;">17.1+<br />old not tested</td><td>Possible problems</td><td>11.5.5+</td><td style="line-height:1em;">8.1+<br />old not tested</td><td>19.0+</td><td style="line-height:1em;">28.0+</td><td>9.3.0+</td>
+<td>Android 2.2+</td><td>5.1+</td><td>11.5.5+</td><td style="line-height:1em;">WP 8.1+<br />old not tested</td><td>19.0+</td><td style="line-height:1em;">28.0+</td><td>9.3.0+</td>
 </tr>
 </table>
 
