@@ -26,7 +26,7 @@ It is similar to other “lightbox jquery” plug-ins, but it is written from sc
 </ul>
 
 <h2>Compatibility</h2>
-<table id="cross">
+<table id="cross" style="width:100%;">
 <tr>
 <th colspan="7">Browser HOME</th>
 </tr>
