@@ -82,4 +82,6 @@ Compressed ‘min’ version of the script jquery.toxicbox-1.0.1d.min.js is adde
 Corrected the way to represent long titles in popup containers.
 Added the second button theme to the release (images_url : "images/toxic2/").
 
-<b>Information Partners:</b> https://www.browserstack.com - Cross Browser Testing Tool. 300+ Browsers, Mobile, Real IE.
+<h2>Information Partners:</h2>
+
+https://www.browserstack.com - Cross Browser Testing Tool. 300+ Browsers, Mobile, Real IE.
