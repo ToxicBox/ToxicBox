@@ -9,7 +9,7 @@ It is similar to other “lightbox jquery” plug-ins, but it is written from sc
 
 <strong>Demo:</strong> http://my-gallery.name/en/
 
-<h2>Plug-in tasks:</h2>
+<h2>Plug-in features:</h2>
 
 <ul>
 <li><span>Cross browser compatibility</span></li>
@@ -22,7 +22,7 @@ It is similar to other “lightbox jquery” plug-ins, but it is written from sc
 <li><span>Correct response to zoom</span></li>
 <li><span>Easy category conversion</span></li>
 <li><span>Lightweight</span></li>
-<li><span>Passing of the W3C Validation test</span></li>
+<li><span>Passed W3C Validation test</span></li>
 </ul>
 
 <h2>Compatibility</h2>
@@ -55,38 +55,38 @@ http://my-gallery.name/en/
 
 1.0.4 - 16.04.2016
 
-Added support for iOS and old versions of Android.
+Added support for iOS and old versions of Android
 
 1.0.3 - 13.04.2016
 
-Improved compatibility with mobile devices.
-Code optimization.
+Improved compatibility with mobile devices
+Code optimization
 
 1.0.2a - 07.04.2016
 
-Added automatic preloading image called loader.gif.
-Increase the value of z-index CSS.
+Added automatic preloading image called loader.gif
+Increase the value of z-index CSS
 
 1.0.2 - 30.03.2016
 
-Improved size calculation for arbitrary container.
-Arbitrary container correctly represents dynamic size change (e.g. form).
-Now exit can be also executed with Esc key.
-Corrected information bar positioning.
-Corrected container appearance after repeated calls of the Plug-in - now container “loading” has the same size as the previous one.
-Added option start_box_size that represents the size of the initial loading screen.
-Minor changes of appearance.
-Code optimization.
+Improved size calculation for arbitrary container
+Arbitrary container now correctly represents dynamic size change (e.g. form)
+Now exit can be also executed with Esc key
+Corrected information bar positioning
+Corrected container appearance after repeated calls of the Plug-in - now container “loading” has the same size as the previous one
+Added option start_box_size that represents the size of the initial loading screen
+Minor changes of appearance
+Code optimization
 
 1.0.1d - 07.01.2016
 
-Corrected a small bug, which activated anchor links when navigation buttons are clicked.
-Compressed ‘min’ version of the script jquery.toxicbox-1.0.1d.min.js is added to the release. Compression UglifyJS2 is used.
+Corrected a small bug, which activated anchor links when navigation buttons are clicked
+Compressed ‘min’ version of the script jquery.toxicbox-1.0.1d.min.js is added to the release. Compression UglifyJS2 is used
 
 1.0.1c - 25.12.2015
 
-Corrected the way to represent long titles in popup containers.
-Added the second button theme to the release (images_url : "images/toxic2/").
+Corrected the way to represent long titles in popup containers
+Added the second button theme to the release (images_url : "images/toxic2/")
 
 <h2>Information Partners:</h2>
 
