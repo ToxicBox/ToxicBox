@@ -34,7 +34,7 @@ Plug-in tasks:
 <th>IE</th><th>Edge</th><th>Chrome</th><th>Firefox</th><th>Opera</th><th>Safari</th><th>Vivaldi</th>
 </tr>
 <tr>
-<td>9+</td><td>20+</td><td>4+</td><td>4+</td><td>12+</td><td>5+</td><td>1+</td>
+<td>9+</td><td>20+</td><td>4+</td><td>4+</td><td>11.6+</td><td>5+</td><td>1+</td>
 </tr>
 <tr>
 <th colspan="7">Browser Mobile</th>
