@@ -24,9 +24,9 @@
 	"package.json",
 	"js/jquery-1.11.1.min.js"
 		],
-	"homepage": "http://my-gallery.name/",
+	"homepage": "http://my-gallery.name/en/",
 	"license": "MIT",
-	"demo": "http://my-gallery.name/",
+	"demo": "http://my-gallery.name/en/",
 	"repository": {
 		"type": "git",
 		"url": "http://github.com/ToxicBox/ToxicBox.git"
