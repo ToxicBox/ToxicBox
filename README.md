@@ -64,28 +64,28 @@ Code optimization
 
 1.0.2a - 07.04.2016
 
-Added automatic preloading image called loader.gif
+Added automatic preloading image called loader.gif<br />
 Increase the value of z-index CSS
 
 1.0.2 - 30.03.2016
 
-Improved size calculation for arbitrary container
-Arbitrary container now correctly represents dynamic size change (e.g. form)
-Now exit can be also executed with Esc key
-Corrected information bar positioning
-Corrected container appearance after repeated calls of the Plug-in - now container “loading” has the same size as the previous one
-Added option start_box_size that represents the size of the initial loading screen
-Minor changes of appearance
+Improved size calculation for arbitrary container<br />
+Arbitrary container now correctly represents dynamic size change (e.g. form)<br />
+Now exit can be also executed with Esc key<br />
+Corrected information bar positioning<br />
+Corrected container appearance after repeated calls of the Plug-in - now container “loading” has the same size as the previous one<br />
+Added option start_box_size that represents the size of the initial loading screen<br />
+Minor changes of appearance<br />
 Code optimization
 
 1.0.1d - 07.01.2016
 
-Corrected a small bug, which activated anchor links when navigation buttons are clicked
+Corrected a small bug, which activated anchor links when navigation buttons are clicked<br />
 Compressed ‘min’ version of the script jquery.toxicbox-1.0.1d.min.js is added to the release. Compression UglifyJS2 is used
 
 1.0.1c - 25.12.2015
 
-Corrected the way to represent long titles in popup containers
+Corrected the way to represent long titles in popup containers<br />
 Added the second button theme to the release (images_url : "images/toxic2/")
 
 <h2>Information Partners:</h2>
