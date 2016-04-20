@@ -1,7 +1,7 @@
 {
 	"name": "toxicbox",
 	"description": "A lightbox gallery plugin. Uses jQuery.",
-	"version": "1.0.5",
+	"version": "1.0.6",
 	"keywords": [
 		"lightbox",
 		"gallery",
@@ -16,7 +16,7 @@
 	],
 	"author": "Berestov Andrey <toxicbox@my-gallery.name>",
 	"main": [
-	"js/jquery.toxicbox-1.0.5.js",
+	"js/jquery.toxicbox-1.0.6.js",
 	"css/toxic.css"
 	],
 	"ignore":[
