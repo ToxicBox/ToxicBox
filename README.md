@@ -1,6 +1,6 @@
 # ToxicBox
 
-<h2>Current version 1.0.5</h2>
+<h2>Current version 1.0.6</h2>
 
 Bower: bower install toxicbox --save
 
@@ -53,7 +53,7 @@ http://my-gallery.name/en/
 
 <h2>Versions of ToxicBox plug-in</h2>
 
-1.0.5 - 20.04.2016
+1.0.5, 1.0.6 - 20.04.2016
 
 A small code optimization
 
