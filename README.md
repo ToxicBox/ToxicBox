@@ -7,7 +7,7 @@ Bower: bower install toxicbox --save
 This is a jQuery plug-in. It displays pictures, containers, and notifications in a popup window. They will have unified style which can be adjusted to the individual site design. Plug-in is under development, so some bugs may still be present.
 It is similar to other “lightbox jquery” plug-ins, but it is written from scratch.
 
-<strong>Demo:</strong> http://my-gallery.name/en/
+<strong>Demo:</strong> https://my-gallery.name/en/
 
 <h2>Plug-in features:</h2>
 
@@ -49,7 +49,7 @@ It is similar to other “lightbox jquery” plug-ins, but it is written from sc
 
 <h2>How to use:</h2>
 
-http://my-gallery.name/en/
+https://my-gallery.name/en/
 
 <h2>Versions of ToxicBox plug-in</h2>
 
