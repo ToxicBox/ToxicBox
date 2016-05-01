@@ -2,7 +2,8 @@
 	"name": "toxicbox",
 	"description": "jQuery lightbox",
 	"dependencies": {
-		"jquery": ">=1.7.0"
+		"jquery": ">=1.7.0",
+		"velocity": ">=1.2.3"
 	},
 	"keywords": [
 		"lightbox",
@@ -31,12 +32,13 @@
 	],
 	"homepage": "http://my-gallery.name/en/",
 	"main": [
-	"js/jquery.toxicbox-1.0.6.js",
-	"css/toxic.css"
+	"js/jquery.toxicbox-1.0.7.js",
+	"css/jquery.toxicbox-1.0.7.css"
 	],
 	"ignore": [
 		"package.json",
 		"bower.json",
-		"js/jquery-1.11.1.min.js"
+		"js/jquery-2.2.3.min.js",
+		"js/velocity.min.js"
 	]
 }
