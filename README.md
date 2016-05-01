@@ -1,6 +1,6 @@
 # ToxicBox
 
-<h2>Current version 1.0.6</h2>
+<h2>Current version 1.0.7</h2>
 
 Bower: bower install toxicbox --save
 
@@ -52,6 +52,14 @@ It is similar to other “lightbox jquery” plug-ins, but it is written from sc
 https://my-gallery.name/en/
 
 <h2>Versions of ToxicBox plug-in</h2>
+
+1.0.7 - 01.05.2016
+
+From this version an animations rendering will be carry through Velocity.js. That’s why the library will be necessary<br />
+Fetching of dialogue boxes “datbox” and “alert” was attended to the js. DB script<br />
+New theme was attended<br />
+File CSS was renew<br />
+Etc minor fixes<br />
 
 1.0.5, 1.0.6 - 20.04.2016
 
