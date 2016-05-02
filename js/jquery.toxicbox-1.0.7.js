@@ -178,7 +178,7 @@ function GetImages(ct){
           }
           if (is_single==1 ) {
               ttx
-                .html('<p class="toxic_center toxic_title" style="width:'+($(this).width()-40)+'px;padding-top:4px;margin-bottom:'+ps+'px;">'+ct+'</p>');
+                .html('<p class="toxic_center toxic_title" style="width:'+($(this).width()-40)+'px;padding-top:3px;margin-bottom:'+ps+'px;">'+ct+'</p>');
           }
         }else{
           if (is_single==2 ) {
