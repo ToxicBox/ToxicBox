@@ -30,7 +30,7 @@ font-family:inherit; /* font family */
 #toxic_h2 {margin:0 auto;text-align:center;}
 a.toxic_zoom {cursor: -webkit-zoom-in;  cursor: zoom-in;}
 
-#toxic_showbox p.countofimages{font-size:1em;white-space:pre;padding-top:4px;} /* font of count images size */
+#toxic_showbox p.countofimages{font-size:1em;white-space:pre;padding-top:3px;} /* font of count images size */
 #toxic_showbox p.toxic_title, #toxic_showbox p.countofimages, #toxic_showbox #toxic_h2{color:black;} /* text color */
 #toxic_showbox #toxic_h2{margin:0 auto;font-size:1em;} /* margin, size title */
 #toxic_showbox {background:white;} /* box carrier color */
