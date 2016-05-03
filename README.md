@@ -1,6 +1,6 @@
 # ToxicBox
 
-<h2>Current version 1.0.7</h2>
+<h2>Current version 1.0.8</h2>
 
 Bower: bower install toxicbox --save
 
@@ -52,6 +52,10 @@ It is similar to other “lightbox jquery” plug-ins, but it is written from sc
 https://my-gallery.name/en/
 
 <h2>Versions of ToxicBox plug-in</h2>
+
+1.0.8 - 03.05.2016
+
+Bug fix
 
 1.0.7 - 01.05.2016
 
