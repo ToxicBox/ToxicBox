@@ -1,0 +1,40 @@
+/**
+* jquery.toxicbox.css ver.1.0.8
+* ToxicBox - © 2015-2016 Berestov Andrey
+* http://my-gallery.name
+*/
+
+@media screen {  
+#toxic_showbox a, #toxic_showbox div, #toxic_showbox p, #toxic_showbox span, #toxic_showbox em, #toxic_showbox img, #toxic_showbox strong, #toxic_h2{
+margin:0;padding:0;border:0;vertical-align:top;text-align:left;text-decoration:none;color:black;position:relative;
+
+font-size:1em; /* font size */
+line-height:normal; /* font line height */
+font-family:inherit; /* font family */
+
+}
+#toxic_showbox .toxic_center {text-align:center;}
+#toxic_showbox .toxic_left {float:left;}
+#toxic_showbox .toxic_clear {clear:both;}
+#toxic_showbox .toxic_hidden {display:none;}
+#toxic_dark {width:100%;height:100%;position:fixed;top:0;z-index:1000000;}
+#toxic_showbox {z-index:1000001;position:absolute;min-width:20px;min-height:20px;box-shadow:0 0 1px #4b4b4b;-moz-box-shadow:0 0 1px #4b4b4b;-webkit-box-shadow:0 0 1px #4b4b4b;overflow:hidden;}
+#toxic_showbox #toxic_close {position:absolute;width:20px;height:auto;z-index:1000003;}
+#toxic_showbox #toxic_close.div_close {position:relative;}
+#toxic_loading {width:40px;height:auto;position:absolute;z-index:1000002;}
+#toxic_showbox #toxic_arrow_carrier {height:20px;position:absolute;margin:-2px auto auto -10px;z-index:1000001;background:transparent;}
+#toxic_showbox .toxic_larrow {height:20px;background:transparent;padding-left:10px;}
+#toxic_showbox .toxic_rarrow {height:20px;background:transparent;text-align:right;padding-right:10px;}
+#toxic_showbox #toxic_textarea {padding:0 20px;background:transparent;}
+#toxic_showbox #toxic_textarea  p{z-index:1000002;}
+#toxic_h2 {margin:0 auto;text-align:center;}
+a.toxic_zoom {cursor: -webkit-zoom-in;  cursor: zoom-in;}
+
+#toxic_showbox p.countofimages{font-size:1em;white-space:pre;padding-top:3px;} /* font of count images size */
+#toxic_showbox p.toxic_title, #toxic_showbox p.countofimages, #toxic_showbox #toxic_h2{color:black;} /* text color */
+#toxic_showbox #toxic_h2{margin:0 auto;font-size:1em;} /* margin, size title */
+#toxic_showbox {background:white;} /* box carrier color */
+#toxic_dark {background:black;opacity: 0.2;filter: alpha(Opacity=20);} /* background settings */
+}
+
+
