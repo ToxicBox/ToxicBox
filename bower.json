@@ -33,8 +33,8 @@
 	],
 	"homepage": "http://my-gallery.name/en/",
 	"main": [
-	"js/jquery.toxicbox-1.0.8.js",
-	"css/jquery.toxicbox-1.0.8.css"
+	"js/jquery.toxicbox-1.0.9.js",
+	"css/jquery.toxicbox-1.0.9.css"
 	],
 	"ignore": [
 		"package.json",
