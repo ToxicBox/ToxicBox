@@ -34,7 +34,9 @@
 	"homepage": "http://my-gallery.name/en/",
 	"main": [
 	"js/jquery.toxicbox-1.0.9.js",
-	"css/jquery.toxicbox-1.0.9.css"
+	"jquery.toxicbox.latest.js",
+	"css/jquery.toxicbox-1.0.9.css",
+	"jquery.toxicbox.latest.css"
 	],
 	"ignore": [
 		"package.json",
