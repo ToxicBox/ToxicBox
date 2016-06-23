@@ -16,6 +16,7 @@ It is similar to other “lightbox jquery” plug-ins, but it is written from sc
 <li><span>Mobile-Friendly</span></li>
 <li><span>Display of related images</span></li>
 <li><span>Advanced loading of consecutive images</span></li>
+<li><span>Gallery grouping</span></li>
 <li><span>Display of single images</span></li>
 <li><span>Display of containers (div, section...)</span></li>
 <li><span>Display of notifications</span></li>
@@ -63,11 +64,11 @@ Bug fix
 
 1.0.9 - 05.05.2016
 
-Display of related images in groups:<br />
+Gallery grouping:<br />
 data-toxic-name="group1" <br />
 data-toxic-name="mygroupname2" <br />
 data-toxic-name="my_groupname_3" <br />
-and so on. Parameter data-toxic-name may be omitted.
+and so on.
 
 1.0.8 - 03.05.2016
 
@@ -75,8 +76,8 @@ Bug fix
 
 1.0.7 - 01.05.2016
 
-From this version an animations rendering will be carry through Velocity.js. That’s why the library will be necessary<br />
-Fetching of dialogue boxes “datbox” and “alert” was attended to the js. DB script<br />
+Starting from version jquery.toxicbox 1.0.7 plugin <a href="http://velocityjs.org/" rel="nofollow" target="_blank">Velocity.js</a> is recommended for the plug-in (it provides faster animation than standard jQuery).<br />
+Starting from version 1.0.7 it is allowed to call windows of Databox and Alert type directly from the js scenarios.<br />
 New theme was attended<br />
 File CSS was renew<br />
 Etc minor fixes<br />
