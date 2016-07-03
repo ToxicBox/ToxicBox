@@ -33,15 +33,13 @@
 	],
 	"homepage": "http://my-gallery.name/en/",
 	"main": [
-	"js/jquery.toxicbox-1.0.10.1.js",
 	"jquery.toxicbox.latest.js",
-	"css/jquery.toxicbox-1.0.10.1.css",
 	"jquery.toxicbox.latest.css"
 	],
 	"ignore": [
 		"package.json",
 		"bower.json",
-		"js/jquery-2.2.3.min.js",
+		"js/jquery-3.0.0.min.js",
 		"js/velocity.min.js"
 	]
 }
