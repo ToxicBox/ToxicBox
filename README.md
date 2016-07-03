@@ -1,6 +1,6 @@
 # ToxicBox
 
-<h2>Current version 1.0.10.1</h2>
+<h2>Current version 1.1.0.1 - 03.07.2016</h2>
 
 Bower: bower install toxicbox --save
 
@@ -57,6 +57,12 @@ https://my-gallery.name/en/
 1.0.10.1 - 16.05.2016
 
 Loader file updated
+
+1.1.0.1 - 03.07.2016
+
+Bug fix<br />
+Added compatibility with jQuery Core 3.x<br />
+Demo added to the distribution
 
 1.0.10 - 08.05.2016
 
