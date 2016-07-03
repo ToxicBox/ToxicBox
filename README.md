@@ -54,15 +54,15 @@ https://my-gallery.name/en/
 
 <h2>Versions of ToxicBox plug-in</h2>
 
-1.0.10.1 - 16.05.2016
-
-Loader file updated
-
 1.1.0.1 - 03.07.2016
 
 Bug fix<br />
 Added compatibility with jQuery Core 3.x<br />
 Demo added to the distribution
+
+1.0.10.1 - 16.05.2016
+
+Loader file updated
 
 1.0.10 - 08.05.2016
 
