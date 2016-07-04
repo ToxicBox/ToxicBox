@@ -1,6 +1,6 @@
 # ToxicBox
 
-<h2>Current version 1.1.0.1 - 03.07.2016</h2>
+<h2>Current version 1.1.0.2 - 04.07.2016</h2>
 
 Bower: bower install toxicbox --save
 
@@ -44,7 +44,7 @@ It is similar to other “lightbox jquery” plug-ins, but it is written from sc
 <th>Stock Android</th><th>iOS</th><th>Opera Mobile</th><th>Windows</th><th>Firefox</th><th>Chrome</th><th>UC Browser</th>
 </tr>
 <tr>
-<td>Android 2.2+</td><td>5.1+</td><td>11.5.5+</td><td style="line-height:1em;">WP 8.1+<br />old not tested</td><td>19.0+</td><td style="line-height:1em;">28.0+</td><td>9.3.0+</td>
+<td>Android 2.3+</td><td>5.1+</td><td>11.5.5+</td><td style="line-height:1em;">WP 8.1+<br />old not tested</td><td>19.0+</td><td style="line-height:1em;">28.0+</td><td>9.3.0+</td>
 </tr>
 </table>
 
@@ -53,6 +53,10 @@ It is similar to other “lightbox jquery” plug-ins, but it is written from sc
 https://my-gallery.name/en/
 
 <h2>Versions of ToxicBox plug-in</h2>
+
+1.1.0.2 - 04.07.2016
+
+Bug fix
 
 1.1.0.1 - 03.07.2016
 
