@@ -56,7 +56,7 @@ https://my-gallery.name/en/
 
 1.1.0.3 - 16.07.2016
 
-File CSS was renew
+File CSS was renew<br />
 Compressed ‘min’ version of the CSS file is added to the release
 
 1.1.0.2 - 04.07.2016
