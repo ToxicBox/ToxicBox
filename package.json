@@ -1,7 +1,7 @@
 {
 	"name": "toxicbox",
 	"description": "A lightbox gallery plugin. Uses jQuery.",
-	"version": "1.1.0.3",
+	"version": "1.1.0.4",
 	"keywords": [
 		"lightbox",
 		"gallery",
@@ -22,7 +22,7 @@
 	"ignore":[
 	"bower.json",
 	"package.json",
-	"js/jquery-3.0.0.min.js",
+	"js/jquery-3.1.1.min.js",
 	"js/velocity.min.js"
 		],
 	"homepage": "http://my-gallery.name/en/",
