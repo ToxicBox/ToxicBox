@@ -1,6 +1,6 @@
 # ToxicBox
 
-<h2>Current version 1.1.0.3 - 16.07.2016</h2>
+<h2>Current version 1.1.0.4</h2>
 
 Bower: bower install toxicbox --save
 
@@ -53,6 +53,10 @@ It is similar to other “lightbox jquery” plug-ins, but it is written from sc
 https://my-gallery.name/en/
 
 <h2>Versions of ToxicBox plug-in</h2>
+
+1.1.0.4 - 02.11.2016
+
+New optional feature - auto_alt_to_title. Default is off. If it is enabled and the parent of the picture hasn't the 'title' attribute, the description of the image is taken from the 'alt' attribute
 
 1.1.0.3 - 16.07.2016
 
